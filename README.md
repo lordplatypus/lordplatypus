@@ -16,8 +16,18 @@
 ### Noteworthy / finished games
 - Rhythm game inspired by Crypt of the Necrodancer
   - [Rhythm Factory](https://github.com/lordplatypus/Rhythm_Game_Remake)
+  - [Video](https://drive.google.com/file/d/1_wkeOdnAibiDZWL2C8fwjAJCqUuMiXXe/view?usp=sharing)
 - Simple puzzle game where the goal is to complete the picture
   - [Slide Puzzle](https://github.com/lordplatypus/Slide_Puzzle)
+
+### Unity
+- Rouge Like 2D shooter
+  - [Twin Stick Shooter](https://github.com/lordplatypus/Unity_Twin_Stick_Shooter)
+  - [Video](https://drive.google.com/file/d/1VaWz4vrZLyGXLp2J7o5HSjlnJe3rQKIq/view?usp=sharing)
+- Block breaking phone game
+  - [Block Break](https://github.com/lordplatypus/Unity_Block_Break)
+  - [Video](https://drive.google.com/file/d/1LRiM1Hkz_oKIuju8MFIC-rLnpAIWz4E0/view?usp=sharing)
+- Misc. Unity [videos](https://drive.google.com/drive/folders/13CAJnkv_MCMbHHvUPLvZfhkiuql24qPv?usp=sharing)
 
 ### Other non-game projects
 - Tool I made to manually time music
