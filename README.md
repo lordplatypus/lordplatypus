@@ -17,6 +17,7 @@
 - Rhythm game inspired by Crypt of the Necrodancer
   - [Rhythm Factory](https://github.com/lordplatypus/Rhythm_Game_Remake)
   - [Video](https://drive.google.com/file/d/1_wkeOdnAibiDZWL2C8fwjAJCqUuMiXXe/view?usp=sharing)
+![Rhythm Factory Image](/RhythmFactory.png)
 - Simple puzzle game where the goal is to complete the picture
   - [Slide Puzzle](https://github.com/lordplatypus/Slide_Puzzle)
 
