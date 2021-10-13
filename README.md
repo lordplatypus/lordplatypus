@@ -11,6 +11,8 @@
 
 ### Current Project(s)
 ---
+ <img src="MonsterSweeper.png" alt="MonsterSweeper" style="width:240px;height:135px;" align="right">
+
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=MonsterSweeper&theme=dark)](https://github.com/lordplatypus/MonsterSweeper)
 
 ### Game Base
@@ -19,15 +21,20 @@
 
 ### Noteworthy / finished games
 ---
-> <img src="RhythmFactory.png" alt="Rhythm Factory Pic" style="width:360px;height:240px;" align="right">
+> <img src="RhythmFactory.png" alt="Rhythm Factory Pic" style="width:300px;height:180px;" align="right">
 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Rhythm_Game_Remake&theme=dark)](https://github.com/lordplatypus/Rhythm_Game_Remake)
 > - [Video](https://drive.google.com/file/d/1_wkeOdnAibiDZWL2C8fwjAJCqUuMiXXe/view?usp=sharing)
+
+ <img src="SlidePuzzle.png" alt="SlidePuzzle" style="width:240px;height:135px;" align="right">
 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Slide_Puzzle&theme=dark)](https://github.com/lordplatypus/Slide_Puzzle)
 
 ### Unity
 ---
+ <img src="BlockBreaker.png" alt="BlockBreaker" style="width:192px;height:352px;" align="right">
+ <img src="TwinStickShooter.png" alt="TwinStickShooter" style="width:270px;height:180px;" align="right">
+
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Unity_Twin_Stick_Shooter&theme=dark)](https://github.com/lordplatypus/Unity_Twin_Stick_Shooter)
 > - [Video](https://drive.google.com/file/d/1VaWz4vrZLyGXLp2J7o5HSjlnJe3rQKIq/view?usp=sharing)
 
@@ -43,4 +50,4 @@
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=List_Maker&theme=dark)](https://github.com/lordplatypus/List_Maker)
 
 
-Thank you for taking a look!
+Thank you for taking a look! <img src="Roboko.gif" alt="Roboko" style="width:64px;height:64px;">
