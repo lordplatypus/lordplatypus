@@ -4,6 +4,7 @@
 - I mostly make games, but I have been know to do some other stuff.
 - I personally use c++ and SFML to make games, but I have experience using c# and Unity.
 - I also enjoy 8 bit art and working on my car.
+- I started to make some simple games with JS / TS / HTML, check them out here! -> [lordplatypus.github.io](https://lordplatypus.github.io)
 
 ### Some Stats
 ---
@@ -11,13 +12,14 @@
 
 ### Current Project(s)
 ---
- <img src="MonsterSweeper.png" alt="MonsterSweeper" style="width:240px;height:135px;" align="right">
+ > - Monster Sweeper -> Mine Sweeper but with dungeon crawling / rougelike aspecs
+ > <img src="MonsterSweeper.png" alt="MonsterSweeper" style="width:240px;height:135px;">
 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=MonsterSweeper&theme=dark)](https://github.com/lordplatypus/MonsterSweeper)
+<!-- > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=MonsterSweeper&theme=dark)](https://github.com/lordplatypus/MonsterSweeper) -->
 
-### Game Base
+<!-- ### Game Base
 ---
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Minigame_Base&theme=dark)](https://github.com/lordplatypus/Minigame_Base)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Minigame_Base&theme=dark)](https://github.com/lordplatypus/Minigame_Base) -->
 
 ### Noteworthy / finished games
 ---
@@ -29,6 +31,12 @@
  <img src="SlidePuzzle.png" alt="SlidePuzzle" style="width:240px;height:135px;" align="right">
 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Slide_Puzzle&theme=dark)](https://github.com/lordplatypus/Slide_Puzzle)
+
+### HTML5 / JavaScript / TypeScript
+---
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Slide_Puzzle_JS&theme=dark)](https://github.com/lordplatypus/Slide_Puzzle_JS)
+
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Block_Break_TS&theme=dark)](https://github.com/lordplatypus/Block_Break_TS)
 
 ### Unity
 ---
