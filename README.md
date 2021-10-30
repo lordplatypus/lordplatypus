@@ -12,7 +12,7 @@
 
 ### Current Project(s)
 ---
- > - Monster Sweeper -> Mine Sweeper but with dungeon crawling / rougelike aspecs
+ > - Monster Sweeper -> Mine Sweeper but with dungeon crawling and roguelike aspects
  > <img src="MonsterSweeper.png" alt="MonsterSweeper" style="width:240px;height:135px;">
 
 <!-- > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=MonsterSweeper&theme=dark)](https://github.com/lordplatypus/MonsterSweeper) -->
@@ -41,7 +41,7 @@
 ### Unity
 ---
  <img src="BlockBreaker.png" alt="BlockBreaker" style="width:192px;height:352px;" align="right">
- <img src="TwinStickShooter.png" alt="TwinStickShooter" style="width:270px;height:180px;" align="right">
+ <img src="TwinStickShooter.png" alt="TwinStickShooter" style="width:250px;height:160px;" align="right">
 
 > [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lordplatypus&repo=Unity_Twin_Stick_Shooter&theme=dark)](https://github.com/lordplatypus/Unity_Twin_Stick_Shooter)
 > - [Video](https://drive.google.com/file/d/1VaWz4vrZLyGXLp2J7o5HSjlnJe3rQKIq/view?usp=sharing)
